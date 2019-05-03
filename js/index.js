@@ -96,7 +96,7 @@ window.addEventListener('load', (event) => {
 //   myFocus.style.backgroundColor = "red";
 // }
 
-//SELECT
+//SELECT-
 const elem = document.getElementById("test");
 elem.addEventListener(
   "select",
