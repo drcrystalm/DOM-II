@@ -57,3 +57,19 @@ Using the 10 unique events, find ways to update the DOM in creative ways. For ex
 ## Stretch assignment
 
 - [ ] Take a look at the [stretch assignment](stretch-assignment) and follow the instructions in the read me file.
+
+<!-- What is the DOM?
+
+The DOM is the Document Object Model, Object model of the HTML. It is in a tree structure, composed of tree nodes with their own properties.
+
+What is an event?
+Events are ways we interact with the page via the mouse, keyboard, keypad, etc.
+
+What is an event listener?
+An event listener is what we put on an element to detect when a certain interaction has happened. We give the evenet listener a callback, so that when the even happens, that callback function is run.
+
+Why would we convert a NodeList into an Array?
+We would convert a Nodelist into an Array in order to have access to array methods (beyond forEach.) A NodeList has access to the forEach method, but arrays have acces to tons more methods that we can use for functionality.
+
+What is a component?
+A componenet is reusable code. We use them for elements that share styling or functionality. They help use build effective, efficient, dynamic webpages. -->
